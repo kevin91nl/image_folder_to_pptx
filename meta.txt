@@ -1,0 +1,29 @@
+Task:
+Create a Python program that can be run on a Windows computer. This program should automatically gather photos stored on the computer and insert them into a PowerPoint presentation. Additionally, include a user interface with a menu that allows the user to select specific folders containing the photos they want to include in the presentation.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.brainstorming: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+powerpoint
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+8.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
